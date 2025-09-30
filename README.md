@@ -1,5 +1,5 @@
 # Hubert
-paragraph1
+parograph1
 
 paragragh2
 
@@ -7,4 +7,4 @@ paragragh2
 2. Item2
 3. Item3
 
-hyperlinks[Hello World](https://www.example.com)
+hyperlinks[Helo World](https://www.example.com)
